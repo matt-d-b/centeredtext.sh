@@ -1,0 +1,1 @@
+# centeredtext.sh
